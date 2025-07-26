@@ -1,6 +1,6 @@
-# Personal Dashboard
+# Dashboard Wireframe
 
-**Personal Dashboard** is a minimalist Chrome extension that replaces your new tab with a real-time dashboard. 
+**Dashboard Wireframe** is a minimalist Chrome extension that replaces your new tab with a real-time dashboard. 
 It displays:
 
 - A beautiful nature background (via Unsplash)
